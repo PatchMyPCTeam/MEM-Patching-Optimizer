@@ -19,6 +19,7 @@ This tool run various tests against your WSUS environment, Including WSUS, SQL &
     - App pool identity matches the microsoft recommendation
 - Checks that the number of superceded & undeclined updates are within recommended limits
 
+More tests will be added as time goes on!
 
 ## Feedback & Support
 
