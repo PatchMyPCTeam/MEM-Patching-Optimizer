@@ -4,6 +4,10 @@
 
 This tool run various tests against your WSUS environment, Including WSUS, SQL & IIS and provide feedback based on Microsofts best practices
 
+# Documentation
+
+You can find all docs related to this tool [here](https://docs.patchmypc.com/get-help/mem-performance-analyzer)
+
 ## Tests
 
 - Test SUSDB Response Time
