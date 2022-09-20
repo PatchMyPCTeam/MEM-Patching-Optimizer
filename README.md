@@ -8,6 +8,22 @@ This tool run various tests against your WSUS environment, Including WSUS, SQL &
 
 You can find all docs related to this tool [here](https://docs.patchmypc.com/get-help/mem-performance-analyzer)
 
+# Requirements
+
+## Software
+
+- Microsoft .NET Framework 4.6.2
+- Installed on top level WSUS Server
+- Supported Operating Systems
+    - Windows Server 2012, Windows Server 2012r2, Windows Server 2016, Windows Server 2019, Windows Server 2022
+    - Windows Server Update Services (WSUS) installed and configured
+    - IIS Web Administration tools installed
+    
+## Limitations
+
+- Currently only supports SQL Databases
+- Currently only queries the local WSUS server
+
 ## Tests
 
 - Test SUSDB Response Time
