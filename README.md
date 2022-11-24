@@ -1,4 +1,4 @@
-![Logo](https://github.com/PatchMyPCTeam/MEM-Performance-Analzyser/blob/main/patchmypc.png)
+![Logo](https://github.com/PatchMyPCTeam/MEM-Performance-Analzyser/blob/main/MEMPatchingOptimizer.png)
 
 # MEM Performance Analyser
 
