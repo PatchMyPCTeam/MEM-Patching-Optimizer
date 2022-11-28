@@ -21,7 +21,6 @@ You can find all docs related to this tool [here](https://docs.patchmypc.com/get
     
 ## Limitations
 
-- Currently only supports SQL Databases
 - Currently only queries the local WSUS server
 
 ## Tests
